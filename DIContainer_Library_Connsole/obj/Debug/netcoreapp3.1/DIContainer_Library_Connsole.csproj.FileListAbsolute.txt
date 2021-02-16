@@ -1,0 +1,13 @@
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\obj\Debug\netcoreapp3.1\DIContainer_Library_Connsole.csprojAssemblyReference.cache
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\obj\Debug\netcoreapp3.1\DIContainer_Library_Connsole.AssemblyInfoInputs.cache
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\obj\Debug\netcoreapp3.1\DIContainer_Library_Connsole.AssemblyInfo.cs
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\obj\Debug\netcoreapp3.1\DIContainer_Library_Connsole.csproj.CoreCompileInputs.cache
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\bin\Debug\netcoreapp3.1\DIContainer_Library_Connsole.exe
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\bin\Debug\netcoreapp3.1\DIContainer_Library_Connsole.deps.json
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\bin\Debug\netcoreapp3.1\DIContainer_Library_Connsole.runtimeconfig.json
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\bin\Debug\netcoreapp3.1\DIContainer_Library_Connsole.runtimeconfig.dev.json
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\bin\Debug\netcoreapp3.1\DIContainer_Library_Connsole.dll
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\bin\Debug\netcoreapp3.1\DIContainer_Library_Connsole.pdb
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\obj\Debug\netcoreapp3.1\DIContainer_Library_Connsole.dll
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\obj\Debug\netcoreapp3.1\DIContainer_Library_Connsole.pdb
+C:\Users\ajont\source\repos\DIContainer_Library_Connsole\obj\Debug\netcoreapp3.1\DIContainer_Library_Connsole.genruntimeconfig.cache

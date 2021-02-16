@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DIContainer_Library_Connsole/1.0.0": {
+        "runtime": {
+          "DIContainer_Library_Connsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIContainer_Library_Connsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
